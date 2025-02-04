@@ -3,9 +3,6 @@
         {
             "name": "Neural-AI",
             "path": "."
-        },
-        {
-            "path": "../Neural-AI-lightning-fail"
         }
     ]
 }
